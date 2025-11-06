@@ -18,3 +18,13 @@ Task list for project
 * ( ) Complete the 'sub-day' update logic function, including scheduling of state changes.
 * ( ) Implement infection exposure methods.
 * ( ) Test a few SimIndividuals on a small scale.
+
+
+#### What I Yammered On About
+Evan: Designed template structure for the simulation, designed the first draft of the Simulation Individual class (screenshot provided), and setup the GitHub for the project.
+
+Shira: Worked through additional biological parameter specifications and worked to plan the mathematics of the project.
+
+Val: Worked on some parameter specifications and mathematical documentation; encountered Jupyter Lab difficulties during this.
+
+Tyler: Worked on code organization and on designing visualization frameworks for Simulation Individuals.
