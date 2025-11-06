@@ -10,11 +10,11 @@ Task list for project
 7. Test diseases and tweak as needed
 
 ## More Specific Tasks
-( ) Review and finish clarifying documentation for simulation parameters.
-( ) Review and finish describing the base mathematical models for the SimIndividual.
-( ) Implement the rest of the CONTAGIOUS state's core logic.
-( ) Implement the BEDRIDDEN state's core logic.
-( ) Implement any additional unique logic for RECOVERED or DECEASED individuals.
-( ) Complete the 'sub-day' update logic function, including scheduling of state changes.
-( ) Implement infection exposure methods.
-( ) Test a few SimIndividuals on a small scale.
+* ( ) Review and finish clarifying documentation for simulation parameters.
+* ( ) Review and finish describing the base mathematical models for the SimIndividual.
+* ( ) Implement the rest of the CONTAGIOUS state's core logic.
+* ( ) Implement the BEDRIDDEN state's core logic.
+* ( ) Implement any additional unique logic for RECOVERED or DECEASED individuals.
+* ( ) Complete the 'sub-day' update logic function, including scheduling of state changes.
+* ( ) Implement infection exposure methods.
+* ( ) Test a few SimIndividuals on a small scale.
