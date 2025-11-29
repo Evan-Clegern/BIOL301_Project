@@ -12,11 +12,12 @@ Task list for project
 ## More Specific Tasks
 * ( ) Review and finish clarifying documentation for simulation parameters.
 * ( ) Review and finish describing the base mathematical models for the SimIndividual.
-* ( ) Implement the rest of the CONTAGIOUS state's core logic.
+* (X) Implement the rest of the CONTAGIOUS state's core logic.
 * ( ) Implement the BEDRIDDEN state's core logic.
 * ( ) Implement any additional unique logic for RECOVERED or DECEASED individuals.
-* ( ) Complete the 'sub-day' update logic function, including scheduling of state changes.
+* (X) Complete the 'sub-day' update logic function, including scheduling of state changes.
 * ( ) Implement infection exposure methods.
+* (X) Test one SimIndividual's course of infection.
 * ( ) Test a few SimIndividuals on a small scale.
 
 
